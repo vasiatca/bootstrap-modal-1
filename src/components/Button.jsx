@@ -8,4 +8,5 @@ const Button = ({ size = '', ...props}) => {
     </button>
   )
 }
+
 export default Button
